@@ -1,0 +1,39 @@
+Id,nev,tipus,meret,terulet,orszag,vedett_terulet
+1,Zempléni Erdő,lombhullató,120,Zempléni-hegység,Magyarország,true
+2,Bükki Erdő,vegyes,200,Bükk-hegység,Magyarország,true
+3,Balatoni Fenyőerdő,fenyő,80,Balaton-felvidék,Magyarország,false
+4,Mecsek Ligeterdő,lombhullató,50,Mecsek,Magyarország,false
+5,Tisza-parti Nyárerdő,lombhullató,65,Tiszántúl,Magyarország,true
+6,Borsodi Bükkös,lombhullató,85,Borsod-Abaúj-Zemplén,Magyarország,false
+7,Hortobágyi Ligeterdő,sztyepp,30,Hortobágy,Magyarország,true
+8,Somogyi Tölgyes,lombhullató,70,Somogy,Magyarország,true
+9,Nyírségi Fenyves,fenyő,45,Nyírség,Magyarország,false
+10,Szigetközi Nyárerdő,lombhullató,55,Szigetköz,Magyarország,false
+11,Hajdúsági Ligeterdő,lombhullató,40,Hajdúság,Magyarország,true
+12,Gödöllői Bükkös,lombhullató,75,Gödöllői-dombság,Magyarország,false
+13,Kiskunsági Homokfűz,homoki erdő,25,Kiskunság,Magyarország,true
+14,Pilisi Tölgyes,lombhullató,90,Pilis,Magyarország,false
+15,Hévízi Nyárerdő,lombhullató,60,Hévíz,Magyarország,true
+16,Káli-medencei Ligeterdő,lombhullató,35,Káli-medence,Magyarország,true
+17,Budaörsi Fenyves,fenyő,50,Budaörs,Magyarország,false
+18,Soproni Ligeterdő,lombhullató,55,Sopron,Magyarország,true
+19,Eplényi Fenyőerdő,fenyő,40,Eplény,Magyarország,false
+20,Tapolcai Ligeterdő,lombhullató,70,Tapolca,Magyarország,true
+21,Zalai Tölgyes,lombhullató,65,Zala,Magyarország,false
+22,Borostyánkői Homokfűz,homoki erdő,20,Borostyánkő,Magyarország,true
+23,Esztergomi Ligeterdő,lombhullató,45,Esztergom,Magyarország,false
+24,Szombathelyi Tölgyes,lombhullató,80,Szombathely,Magyarország,true
+25,Debreceni Ligeterdő,lombhullató,60,Debrecen,Magyarország,false
+26,Sárvári Nyárerdő,lombhullató,75,Sárvár,Magyarország,true
+27,Hargitai Fenyves,fenyő,55,Hargita,Magyarország,false
+28,Cserháti Ligeterdő,lombhullató,65,Cserhát,Magyarország,true
+29,Pannonhalmi Tölgyes,lombhullató,70,Pannonhalmi-dombság,Magyarország,false
+30,Bükkösdi Ligeterdő,lombhullató,45,Bükkösdi-dombság,Magyarország,true
+31,Tiszai Nyárerdő,lombhullató,85,Tisza,Magyarország,false
+32,Kiskunsági Ligeterdő,lombhullató,55,Kiskunság,Magyarország,true
+33,Zalai Ligeterdő,lombhullató,60,Zala,Magyarország,false
+34,Balatonföldvári Tölgyes,lombhullató,75,Balatonföldvár,Magyarország,true
+35,Keszthelyi Ligeterdő,lombhullató,50,Keszthely,Magyarország,false
+36,Balatonalmádi Ligeterdő,lombhullató,65,Balatonalmádi,Magyarország,true
+37,Tatai Tölgyes,lombhullató,40,Tata,Magyarország,false
+38,Gödöllői Ligeterdő,lombhullató,55,Gödöllő,Magyarország,true
